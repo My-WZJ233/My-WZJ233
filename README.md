@@ -8,8 +8,6 @@ student  Novice
 
 ## About me
 
-![About me](https://github-readme-stats.vercel.app/api?username=My-WZJ233&show_icons=true&theme=dracula)
-
 ![About me](https://github-readme-stats.vercel.app/api?username=My-WZJ233&show_icons=true&theme=Showingicons)
 
 - Email：3250383624@qq.com
