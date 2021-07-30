@@ -1,7 +1,5 @@
 # Zejin Wang
 
-Hello world!
-
 hi, im WZJ.
 
 Software Engineering Major student
