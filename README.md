@@ -4,9 +4,7 @@ hi, im WZJ.
 
 Software Engineering Major student
 
-living in  china Hebei
-
-20 years old
+20 years old, living in  china Hebei
 
 good at web developer
 
