@@ -2,7 +2,14 @@
 
 Hello world!
 
-student  Novice 
+```diff
+hi, im WZJ.
+
+@@ Software Engineering Major student @@
++ living in  china Hebei
+- 20 years old
+! good at web developer
+```
 
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=My-WZJ233&layout=compact)
 
