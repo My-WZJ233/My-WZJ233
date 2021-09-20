@@ -1,12 +1,10 @@
 # Zejin Wang
 
-hi, im WZJ.
-
 Software Engineering Major student
 
 20 years old
 
-living in  china Hebei
+living in china Hebei
 
 good at web developer
 
