@@ -1,13 +1,5 @@
 # Zejin Wang
 
-Software Engineering Major student
-
-20 years old
-
-living in china Hebei
-
-good at web developer
-
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=My-WZJ233&layout=compact)
 
 ## About me
